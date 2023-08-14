@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\App.xaml
-1219584333
+31276872476
 
-6-793535042
+8-1300839493
 13-38814620
-MainWindow.xaml;
+MainWindow.xaml;UserControls\AddButton.xaml;UserControls\Card.xaml;
 
-False
+True
 

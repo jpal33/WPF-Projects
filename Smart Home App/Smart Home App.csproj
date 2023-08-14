@@ -55,6 +55,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="UserControls\AddButton.xaml.cs">
+      <DependentUpon>AddButton.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Card.xaml.cs">
+      <DependentUpon>Card.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -67,6 +73,14 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="UserControls\AddButton.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\Card.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -95,7 +109,28 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Images\" />
+    <Resource Include="Images\kitchen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\add.png" />
+    <Resource Include="Images\bed.png" />
+    <Resource Include="Images\chart.png" />
+    <Resource Include="Images\cordinator_off.png" />
+    <Resource Include="Images\cordinator_on.png" />
+    <Resource Include="Images\electric_off.png" />
+    <Resource Include="Images\electric_on.png" />
+    <Resource Include="Images\fridge_off.png" />
+    <Resource Include="Images\fridge_on.png" />
+    <Resource Include="Images\home2.png" />
+    <Resource Include="Images\home3.png" />
+    <Resource Include="Images\light_off.png" />
+    <Resource Include="Images\light_on.png" />
+    <Resource Include="Images\living_room.jpg" />
+    <Resource Include="Images\location.png" />
+    <Resource Include="Images\logout.png" />
+    <Resource Include="Images\setting.png" />
+    <Resource Include="Images\shield.png" />
+    <Resource Include="Images\users.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

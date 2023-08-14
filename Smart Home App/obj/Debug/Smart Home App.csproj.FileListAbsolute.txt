@@ -1,0 +1,21 @@
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App.csproj.AssemblyReference.cache
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\UserControls\Card.baml
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\UserControls\Card.g.cs
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\App.g.cs
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.cache
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.lref
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\bin\Debug\Smart Home App.exe.config
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\bin\Debug\Smart Home App.exe
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\bin\Debug\Smart Home App.pdb
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\MainWindow.g.cs
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\App.baml
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\MainWindow.baml
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App.g.resources
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart_Home_App.Properties.Resources.resources
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App.csproj.GenerateResource.cache
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App.csproj.CoreCompileInputs.cache
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App.exe
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\Smart Home App.pdb
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\UserControls\AddButton.baml
+C:\Users\jpala\Source\Repos\WPF-Projects\Smart Home App\obj\Debug\UserControls\AddButton.g.cs
